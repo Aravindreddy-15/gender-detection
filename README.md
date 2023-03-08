@@ -15,7 +15,7 @@ pip intsall -r requirements.txt
 ```
 - Download Dataset.
 
-**Note :** API key can be obtained from the 'Account' tab of your user profile [https://www.kaggle.com/<username>/account]and select 'Create API Token'. This will trigger the download of kaggle.json, a file containing your API credentials.
+**Note :** API key can be obtained from the 'Account' tab of your user profile @ https://www.kaggle.com/<username>/account and select 'Create API Token'. This will trigger the download of kaggle.json, a file containing your API credentials.
 ```
 export KAGGLE_USERNAME=<your-kaggle-username>
 ```
